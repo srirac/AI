@@ -1,2 +1,2 @@
-# DS_ML
+# AI
 Data Science &amp; Machine Learning Capabilities Showcase
